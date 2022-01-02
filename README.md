@@ -3,6 +3,6 @@
 
 # YPracticum Data Projects Analysis:
 
-## [Report for a bank’s loan division]('.\Bank's_loan_division_project\readme.md')
+## [Report for a bank’s loan division](.\Bank's_loan_division_project\readme.md)
 
 
