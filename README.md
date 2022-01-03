@@ -2,7 +2,7 @@
 
 #  YPracticum Data Projects Analysis:
 
-List of my data analysis projects with business desisions including data preprocessing, categorizing data, graphs visualization using Python and SQL tools, with links to personal portfolio.
+List of my data analysis projects with business desisions including data preprocessing, categorizing data, graphs visualization using Python and SQL tools with the links to my personal portfolio.
 
 ##  [Report for a bank’s loan division](https://borisaks.github.io/Practicum/Bank's_loan_division_project):
 
