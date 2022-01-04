@@ -17,3 +17,5 @@ Analysis of hundreds free advertisements for vehicles over the last few years in
 Telecom operator Megaline company offers its clients two prepaid plans, Surf and Ultimate. The purpose is to analyse clients' behavior to determine which prepaid plan brings in more revenue.
 
 ####  [Video games review analysis](https://github.com/BorisAks/Practicum/tree/main/Video_games_review_analysis/video_games.ipynb):
+
+Research of historical data on game sales, user and expert reviews, genres, platforms (e.g. Xbox or PlayStation) from open sources, that identify patterns and determine whether a game succeeds or not. This research allows to spot potential big winners and plan advertising campaigns.
