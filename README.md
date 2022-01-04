@@ -14,3 +14,5 @@ Analysis of hundreds free advertisements for vehicles over the last few years in
 
 ###  [Telecom operator Megaline](https://github.com/BorisAks/Practicum/tree/main/Telecom_operator_Megaline/telecom.ipynb):
 
+Telecom operator Megaline company offers its clients two prepaid plans, Surf and Ultimate. The purpose is to analyse clients' behavior to determine which prepaid plan brings in more revenue.
+
