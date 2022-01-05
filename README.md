@@ -19,3 +19,7 @@ Telecom operator Megaline company offers its clients two prepaid plans, Surf and
 ####  [Video games review analysis](https://github.com/BorisAks/Practicum/tree/main/Video_games_review_analysis/video_games.ipynb):
 
 Research of historical data on game sales, user and expert reviews, genres, platforms (e.g. Xbox or PlayStation) from open sources, that identify patterns and determine whether a game succeeds or not. This research allows to spot potential big winners and plan advertising campaigns.
+
+####  [Ride-sharing company passengers preferences](https://github.com/BorisAks/Practicum/tree/main/Ride-sharing_company_passengers_preferences/ride-sharing_company.ipynb):
+
+The task is to find patterns of new ride-sharing company in the available information to understand passenger preferences and test hypothesis about the impact of weather on ride frequency and the duration of rides.
