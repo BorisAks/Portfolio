@@ -22,4 +22,4 @@ Research of historical data on game sales, user and expert reviews, genres, plat
 
 ####  [Ride-sharing company passengers preferences](https://github.com/BorisAks/Practicum/tree/main/Ride-sharing_company_passengers_preferences/ride-sharing_company.ipynb):
 
-The task is to find patterns of new ride-sharing company in the available information to understand passenger preferences and test hypothesis about the impact of weather on ride frequency and the duration of rides.
+The task is to find patterns in the available information of new ride-sharing company to understand passengers preferences and test hypothesis about the impact of weather on ride frequency and the duration of rides.
