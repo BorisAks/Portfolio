@@ -29,4 +29,6 @@ The task is to find patterns in the available information of new ride-sharing co
 Analyzing data of online selling platform in order to optimize marketing expenses.
 Calculating LTV (lifetime value), cumulative metric to see how much on average each customer brought in revenue for each cohort, CAC (customer acquisition cost) to indentify the cost of attracting new customer, and ROI (return on investment) to indentify most profitable cohort.
 
-####  [Business Analytics](https://github.com/BorisAks/Practicum/tree/main/AB_test_analysis/ab_test_analysis.ipynb):
+####  [A/B Test Analysis](https://github.com/BorisAks/Practicum/tree/main/AB_test_analysis/ab_test_analysis.ipynb):
+
+Testing a list of hypotheses that may help boost revenue of a big online store, prioritize these hypotheses, launch an A/B test, and analyze the results.
