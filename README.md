@@ -24,11 +24,11 @@ Research of historical data on game sales, user and expert reviews, genres, plat
 
 The task is to find patterns in the available information of new ride-sharing company to understand passengers preferences and test hypothesis about the impact of weather on ride frequency and the duration of rides.
 
-####  [Business Analytics](https://github.com/BorisAks/Practicum/tree/main/Business_Analytics/marketing_expenses_optimization.ipynb):
+####  [Business analytics](https://github.com/BorisAks/Practicum/tree/main/Business_Analytics/marketing_expenses_optimization.ipynb):
 
 Analyzing data of online selling platform in order to optimize marketing expenses.
 Calculating LTV (lifetime value), cumulative metric to see how much on average each customer brought in revenue for each cohort, CAC (customer acquisition cost) to indentify the cost of attracting new customer, and ROI (return on investment) to indentify most profitable cohort.
 
-####  [A/B Test Analysis](https://github.com/BorisAks/Practicum/tree/main/AB_test_analysis/ab_test_analysis.ipynb):
+####  [A/B Test analysis](https://github.com/BorisAks/Practicum/tree/main/AB_test_analysis/ab_test_analysis.ipynb):
 
 Testing a list of hypotheses that may help boost revenue of a big online store, prioritize these hypotheses, launch an A/B test, and analyze the results.
