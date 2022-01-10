@@ -44,4 +44,8 @@ The gym chain Model Fitness is developing a customer interaction strategy based 
 
 ####   [SQL queries](https://github.com/BorisAks/Practicum/tree/main/SQL_project/SQL_project.ipynb):
 
-   Database information of one of the services  for book lovers, used to generate a value proposition for a new product.
+Database information of one of the services  for book lovers, used to generate a value proposition for a new product.
+
+####   [Final Project](https://github.com/BorisAks/Practicum/tree/main/Final_project/Final_project.ipynb):
+
+The virtual telephony service developing identification of clients with non-optimal plan in order to improve company strategy and considers to switch users to plans that are more profitable for them. [Project presentation](https://github.com/BorisAks/Practicum/tree/main/Final_project/Final_Projectn.pdf)
