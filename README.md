@@ -32,3 +32,5 @@ Calculating LTV (lifetime value), cumulative metric to see how much on average e
 ####  [A/B Test analysis](https://github.com/BorisAks/Practicum/tree/main/AB_test_analysis/ab_test_analysis.ipynb):
 
 Testing a list of hypotheses that may help boost revenue of a big online store, prioritize these hypotheses, launch an A/B test, and analyze the results.
+
+####  [Restaurants_market_research](https://github.com/BorisAks/Practicum/tree/main/Restaurants_market_research/restaurants_market_research.ipynb):
