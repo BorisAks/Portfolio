@@ -41,3 +41,7 @@ Research of current market conditions of restaurants in LA. [Project presentatio
 ####   [Forecasts and Predictions](https://github.com/BorisAks/Practicum/tree/main/Forecasts_and_Predictions/forecasts_and_predictions.ipynb):
 
 The gym chain Model Fitness is developing a customer interaction strategy based on analytical data. The task is to analyze the gym chain and come up with a customer retention strategy.
+
+####   [SQL project](https://github.com/BorisAks/Practicum/tree/main/SQL_project/SQL_project.ipynb):
+
+   Database information of one of the services  for book lovers, used to generate a value proposition for a new product.
