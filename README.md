@@ -37,6 +37,7 @@ Testing a list of hypotheses that may help boost revenue of a big online store, 
 
 Research of current market conditions of restaurants in LA. [Project presentation](https://github.com/BorisAks/Practicum/tree/main/Restaurants_market_research/project_presentation.pdf)
 
-####  [Forecasts and Predictions](https://github.com/BorisAks/Practicum/tree/main/Forecasts and Predictions/forecasts_and_predictions.ipynb):
+
+####   [Forecasts and Predictions](https://github.com/BorisAks/Practicum/tree/main/Forecasts_and_Predictions/forecasts_and_predictions.ipynb):
 
 The gym chain Model Fitness is developing a customer interaction strategy based on analytical data. The task is to analyze the gym chain and come up with a customer retention strategy.
