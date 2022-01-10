@@ -35,6 +35,5 @@ Testing a list of hypotheses that may help boost revenue of a big online store, 
 
 ####  [Restaurants market research](https://github.com/BorisAks/Practicum/tree/main/Restaurants_market_research/restaurants_market_research.ipynb):
 
-Research of current market conditions of restaurants in LA
-
+Research of current market conditions of restaurants in LA.
 ##### [Project presentation](https://github.com/BorisAks/Practicum/tree/main/Restaurants_market_research/project_presentation.pdf)
