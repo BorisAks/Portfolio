@@ -1,6 +1,6 @@
 <img src='.\images\1.png'>
 
-##  YPracticum Data Projects Analysis:
+##  Projects Analysis:
 
 List of my data analysis projects with business desisions including data preprocessing, exploratory data analysis, categorizing data, graphs visualization using Python and SQL tools with the links to my personal portfolio.
 
